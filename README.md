@@ -1,9 +1,9 @@
-<div id ="header" align="centre">
-<h1>Hi there, I m Sergey</h1>
-<h3>Unity</h3>
-</div>       
+<h1 align="center">Hi there, I m Sergey</h1>
+<h3 align="center">Unity</h3>
+     
 
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1><h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" width="60" height="60" title="Unity"/>&nbsp;
