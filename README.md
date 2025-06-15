@@ -7,7 +7,9 @@
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-
+[![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white)](https://unity.com)
+[![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)](https://learn.microsoft.com/ru-ru/dotnet/csharp/)
+[![GitHub followers](https://img.shields.io/github/followers/ваш_ник?style=social)](https://github.com/ваш_ник)
 
           
 <!--
