@@ -1,4 +1,3 @@
-## Hi there 👋
 <div id ="header"align="centre">
 <h1>Hi there, I m Sergey</h1>
 <h3>Unity</h3>
