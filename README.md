@@ -10,6 +10,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-000000?logo=rider&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white)
+![URP](https://img.shields.io/badge/Universal_RP-100000?logo=unity&logoColor=white)
+![DOTS](https://img.shields.io/badge/DOTS-100000?logo=unity&logoColor=white)
 
 ## 🚀 Languages and tools
 ![Unity](https://img.shields.io/badge/Unity-100000?logo=unity)
