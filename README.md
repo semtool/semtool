@@ -7,6 +7,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" title="C#"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" height="40" title="C#"/>&nbsp;
 
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-000000?logo=rider&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
 ## 🚀 Languages and tools
 ![Unity](https://img.shields.io/badge/Unity-100000?logo=unity)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp)
