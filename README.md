@@ -7,7 +7,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" title="C#"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" height="40" title="C#"/>&nbsp;
 
-## 🚀 Мои навыки
+## 🚀 Languages and tools
 ![Unity](https://img.shields.io/badge/Unity-100000?logo=unity)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp)
 
