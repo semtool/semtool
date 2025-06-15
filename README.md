@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<div id ="header"align="centre"><h1>Hi there, I m Sergey</h1>
 
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" width="60" height="60" title="Unity"/>&nbsp;
