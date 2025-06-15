@@ -1,20 +1,12 @@
 <h1 align="center">Hi there, I m Sergey</h1>
 <h3 align="center">Unity C# Developer</h3>
      
-
-### Languages and tools
-
-
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white)
-![Rider](https://img.shields.io/badge/Rider-000000?logo=rider&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white)
-
-
 ## 🚀 Languages and tools
 ![Unity](https://img.shields.io/badge/Unity-100000?logo=unity)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
 
 ![Unity Version](https://img.shields.io/badge/Unity-2021.3+-black)
 ![License](https://img.shields.io/badge/License-MIT-green)
