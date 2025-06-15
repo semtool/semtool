@@ -10,6 +10,7 @@
 ## 🚀 Languages and tools
 ![Unity](https://img.shields.io/badge/Unity-100000?logo=unity)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual-studio&logoColor=white)
 
 ![Unity Version](https://img.shields.io/badge/Unity-2021.3+-black)
 ![License](https://img.shields.io/badge/License-MIT-green)
